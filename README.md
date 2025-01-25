@@ -1,6 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFxW4C6643YsQ/profile-displaybackgroundimage-shrink_350_1400/0/1704798854988?e=1710374400&v=beta&t=aHqxgJItZnx17UzWkFZNt8UtuS5gDFd0hOAYldh98lc)](https://www.linkedin.com/in/rajesh110/)
 
-<h1 align="center">Welcome to My Coding Wonderland! 👋</h1>
 <h3 align="center">Crafting Digital Magic | Backend Wizard 🧙‍♂️</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -26,7 +25,7 @@ Backend Developer
 [rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
 
 ### 📄 Experience
-Jr. Laravel Developer
+Laravel Developer
 
 ### ⚡ Fun fact
 I once debugged a production issue by following a trail of coffee cups. It turns out, the bug was caffeinated too! ☕🐞
