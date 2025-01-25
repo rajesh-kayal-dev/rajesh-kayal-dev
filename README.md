@@ -13,19 +13,19 @@
 - Collaborating on projects with a team of talented developers.
 - Embracing challenges and turning them into learning opportunities.
 
-### 🚀 Current Role
-Backend Developer
+### 🚀 Data Struture Ago
+- Java
 
 <p align="center"></p>
 
 ### 🌱 Skills
-**ReactJS**, **Java DSA**, **Spring Boot**, **Next.js**, **FSD**
+**ReactJS**, **Java**, **Hibernate**, **Spring Boot**, **Next.js**, **FSD**
 
 ### 📫 Reach me
 [rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
 
 ### 📄 Experience
-Laravel Developer
+- **Laravel Developer**
 
 ### ⚡ Fun fact
 I once debugged a production issue by following a trail of coffee cups. It turns out, the bug was caffeinated too! ☕🐞
