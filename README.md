@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFxW4C6643YsQ/profile-displaybackgroundimage-shrink_350_1400/0/1704798854988?e=1710374400&v=beta&t=aHqxgJItZnx17UzWkFZNt8UtuS5gDFd0hOAYldh98lc)](https://www.linkedin.com/in/rajesh110/)
 
 <h3 align="center">Crafting Digital Magic | Backend Wizard 🧙‍♂️</h3>
 
