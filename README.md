@@ -12,7 +12,7 @@
 - Collaborating on projects with a team of talented developers.
 - Embracing challenges and turning them into learning opportunities.
 
-### 🚀 Data Struture Ago
+### 🚀 Data Struture Algorithm 
 - Java
 
 <p align="center"></p>
