@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kayal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Learning+Java+%26+DSA+%F0%9F%92%BB;Java+Fullstack+Development+%F0%9F%9A%80;Building+Projects+with+Passion+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Learning+Java+%26+DSA+%F0%9F%92%BB;Java+Fullstack+Development;Building+Projects+with+Passion+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
  <p align="center">
@@ -33,13 +33,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### **Backend Development **
+#### **Backend Development**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### **Databases **
+#### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
