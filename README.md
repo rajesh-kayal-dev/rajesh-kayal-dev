@@ -7,24 +7,17 @@
 
 🎓 **Currently studying Master of Computer Applications**
 
-### 🎯 Tech Arsenal
-- Crafting elegant web solutions with **Laravel** magic.
-- Collaborating on projects with a team of talented developers.
-- Embracing challenges and turning them into learning opportunities.
-
 ### 🚀 Data Struture Algorithm 
 - Java
 
 <p align="center"></p>
 
 ### 🌱 Skills
-**ReactJS**, **Java**, **Hibernate**, **Spring Boot**, **Next.js**, **FSD**
+**ReactJS**, **Java**, **Hibernate**, **Spring Boot**
 
 ### 📫 Reach me
 [rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
 
-### 📄 Experience
-- **Laravel Developer**
 
 ### ⚡ Fun fact
 I once debugged a production issue by following a trail of coffee cups. It turns out, the bug was caffeinated too! ☕🐞
