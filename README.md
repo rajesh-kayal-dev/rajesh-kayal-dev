@@ -1,104 +1,80 @@
+<h1 align="center">Hi 👋, I'm Rajesh Kayal</h1>
 
-<h3 align="center">Crafting Digital Magic | Backend Wizard 🧙‍♂️</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-kayal&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-kayal" /> </p>
-
-🎓 **Currently studying Master of Computer Applications**
-
-### 🚀 Data Struture Algorithm 
-- Java
-
-<p align="center"></p>
-
-### 🌱 Skills
-**ReactJS**, **Java**, **Hibernate**, **Spring Boot**
-
-### 📫 Reach me
-[rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
-
-
-### ⚡ Fun fact
-I once debugged a production issue by following a trail of coffee cups. It turns out, the bug was caffeinated too! ☕🐞
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rajesh110" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh110" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Learning+Java+%26+DSA+%F0%9F%92%BB;Exploring+Fullstack+Development+%F0%9F%9A%80;Building+Projects+with+Passion+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Row 1: Web Development -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+ <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGI_HxLH4VXDg/profile-displayphoto-shrink_200_200/B56ZSe3cNlHQAY-/0/1737832122082?e=1747267200&v=beta&t=fq1hEBFxyUw2-ir01OXkgsdEmF06YY1y1dTA_6yKmCA" alt="Rajesh Kayal" width="150" style="border-radius: 50%;"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajesh-kayal&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-kayal" />
+</p>
+<!-- <h5 align="center">Aspiring Java Developer | Mastering DSA & Java Fullstack Development </h5> -->
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-  </a>
+### 🚀 About Me
+<span style="font-size: 12px;">An MCA student passionate about Java & Fullstack Development. Mastering DSA and building skills in Frontend & Backend. Aspiring to create innovative solutions.</span>
+---
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+### 🛠️ Tech Stack & Skills
 
-  <!-- Row 2: Backend Development -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+#### **Core Programming & DSA**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6C37?style=for-the-badge&logo=java&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6C37?style=for-the-badge&logo=java&logoColor=white)
 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
+#### **Frontend Development (Learning)**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/>
-  </a>
+#### **Backend Development (Learning)**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  <a href="https://www.php.net/manual/en/intro.apc.php" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="api's" width="40" height="40"/>
-  </a>
+#### **Databases (Learning)**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <!-- Row 3: Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+#### **DevOps Tools (Exploring)**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+#### **Other Tools**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Row 4: Other Technologies -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+### 📊 GitHub Stats
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal&show_icons=true&theme=dark&hide_border=true" alt="rajesh-kayal" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGI_HxLH4VXDg/profile-displayphoto-shrink_200_200/B56ZSe3cNlHQAY-/0/1737832122082?e=1747267200&v=beta&t=fq1hEBFxyUw2-ir01OXkgsdEmF06YY1y1dTA_6yKmCA" alt="Rajesh Kayal" width="150" style="border-radius: 50%;"/>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/rajesh-kayal">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajesh-kayal" />
-  </a>
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-kayal&show_icons=true&locale=en&layout=compact" alt="rajesh-kayal" />
-</p>
+### 📫 Let's Connect
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-kayal&" alt="rajesh-kayal" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajesh110-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajesh110)  
+[![Email](https://img.shields.io/badge/Email-rajeshkayal8001@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rajeshkayal8001@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+I once debugged a production issue by following a trail of coffee cups. Turns out, the bug was caffeinated too! ☕🐞
