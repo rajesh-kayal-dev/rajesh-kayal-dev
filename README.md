@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQEaBuEzi0uqug/profile-displayphoto-crop_800_800/B56ZdqtdJyGQAI-/0/1749841991253?e=1755129600&v=beta&t=kaft0HpJetM6hlI_xl0kVdGF_YMk7UyMlObbfaT4ezo" alt="Rajesh Kayal" width="100" style="border-radius: 50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEaBuEzi0uqug/profile-displayphoto-crop_800_800/B56ZdqtdJyGQAI-/0/1749841991253?e=1755129600&v=beta&t=kaft0HpJetM6hlI_xl0kVdGF_YMk7UyMlObbfaT4ezo](https://media.licdn.com/dms/image/v2/D5603AQF0ssbJu6H40w/profile-displayphoto-crop_800_800/B56Zf13.baG0AI-/0/1752176782287?e=1757548800&v=beta&t=Rd7yXRO7v6_zXFXdx3YIws4VGbZNKf_NkoNkYifQ5Rg" alt="Rajesh Kayal" width="100" style="border-radius: 50%;" />
     <h2 style="margin: 0;">Rajesh Kayal</h2>
 </div>
 
