@@ -67,14 +67,7 @@ MCA student passionate about building scalable and secure web applications with 
 #### **Databases**
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://docs.aws.amazon.com/amazondynamodb/"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /></a>
 
-#### **DevOps & Version Control**
-<a href="https://www.docker.com/get-started"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="https://kubernetes.io/docs/home/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-<a href="https://docs.aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-<a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://docs.github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 #### **Tools**
 <a href="https://www.jetbrains.com/idea/documentation/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
