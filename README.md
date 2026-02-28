@@ -77,15 +77,3 @@ MCA student passionate about building scalable and secure web applications with 
 <a href="https://docs.github.com/en/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal&show_icons=true&theme=dark&hide_border=true" alt="rajesh-kayal" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-I once debugged a production issue by following a trail of coffee cups. Turns out, the bug was caffeinated too! ☕🐞
