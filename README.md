@@ -18,7 +18,7 @@ I am a Full Stack Developer with strong backend expertise and hands-on experienc
 
 I focus on writing clean, maintainable code and solving real-world problems through structured backend logic and efficient database design.
 
-In parallel, I actively practice Data Structures and Algorithms using Java, strengthening my problem-solving ability through platforms like LeetCode.
+In parallel, I actively practice Data Structures and Algorithms using Java, strengthening my problem-solving ability through platforms like LeetCode
 
 ---
 
