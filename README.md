@@ -28,7 +28,7 @@ In parallel, I actively practice Data Structures and Algorithms using Java, stre
 - Designing and building scalable RESTful APIs
 - Database design, query optimization, and performance tuning
 - Cloud deployment and environment management using AWS and Docker
-- Strong problem-solving skills through consistent DSA practice (Java)
+- Strong problem-solving skills through consistent DSA practice Java
 
 ---
 
