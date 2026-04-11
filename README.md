@@ -1,7 +1,7 @@
 <h1 align="center">Rajesh Kayal</h1>
 
 <p align="center">
-Full Stack Developer | Backend-Focused | MCA Student | AI Engineer
+Full Stack Developer | MCA Student | AI Engineer
 </p>
 
 <p align="center">
@@ -14,53 +14,30 @@ Full Stack Developer | Backend-Focused | MCA Student | AI Engineer
 
 ## About Me
 
-I am a Full Stack Developer with strong backend expertise and hands-on experience in building scalable, production-grade web applications. Currently pursuing MCA at Dev Bhoomi Uttarakhand University (CGPA: 8.5/10), I specialize in designing RESTful APIs, optimizing backend performance, and developing efficient system architectures using the MERN stack and Laravel.
+I build web applications with a focus on backend systems and API design. Currently doing my MCA at Dev Bhoomi Uttarakhand University.
 
-My core strength lies in writing clean, maintainable code and solving real-world problems through structured backend logic and efficient database design. I am currently expanding into AI Engineering, focusing on Retrieval-Augmented Generation (RAG) systems, conversational agents, and LLM-integrated applications using LangChain, vector databases, and modern AI stacks.
+I work mainly with Node.js, Express, and Laravel. Recently started exploring AI development — building chatbots and systems that can read documents and answer questions using LangChain and vector databases.
 
-I actively practice Data Structures and Algorithms using Java to strengthen my problem-solving abilities and apply these concepts to production-level development.
-
----
-
-## Technical Skills
-
-**Backend Development**
-- Node.js, Express.js, Laravel, RESTful API Design
-
-**Frontend Development**
-- React.js, Next.js, TypeScript
-
-**Databases**
-- PostgreSQL, MongoDB, MySQL, Database Optimization
-
-**Artificial Intelligence**
-- LangChain, RAG Systems, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings
-
-**Cloud and DevOps**
-- AWS (EC2, S3, DynamoDB), Docker, CI/CD Pipelines
-
-**Programming Languages**
-- JavaScript, TypeScript, PHP, Java (for DSA)
-
-**Tools**
-- Git, GitHub, Postman, VS Code
+I like writing clean code and figuring out how to make things work better and faster.
 
 ---
 
-## Current Focus
+## What I Work With
 
-- Building production-ready AI systems with RAG architecture and vector search
-- Mastering Data Structures and Algorithms in Java through consistent practice
-- Advancing system design skills for scalable, distributed applications
-- Developing LLM-integrated applications with LangChain and modern AI frameworks
+**Backend:** Node.js, Express.js  
+**Frontend:** React.js, Next.js  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Artificial Intelligence** LangChain, RAG Systems, Vector Databases (Pinecone), LLM Integration , Embeddings
+**Cloud:** AWS (EC2, S3), Docker ,  CI/CD Pipelines
+**Languages:** JavaScript, TypeScript, PHP, Java
 
 ---
 
-## GitHub Statistics
+## Currently Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+- Building AI systems that can search through documents (RAG)
+- System design for scalable applications
+- Integrating LLMs into web apps
 
 ---
 
@@ -68,8 +45,5 @@ I actively practice Data Structures and Algorithms using Java to strengthen my p
 
 - **Email:** rajeshkayal8001@gmail.com
 - **LinkedIn:** https://linkedin.com/in/rajesh110
-- **GitHub:** https://github.com/rajesh-kayal-dev
-
 ---
-
 Open to opportunities in Full Stack Development, Backend Engineering, and AI Application Development.
