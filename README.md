@@ -1,14 +1,14 @@
-&lt;h1 align="center"&gt;Rajesh Kayal&lt;/h1&gt;
+<h1 align="center">Rajesh Kayal</h1>
 
-&lt;p align="center"&gt;
+<p align="center">
 Full Stack Developer | Backend-Focused | MCA Student | AI Engineer
-&lt;/p&gt;
+</p>
 
-&lt;p align="center"&gt;
-&lt;a href="https://linkedin.com/in/rajesh110"&gt;LinkedIn&lt;/a&gt; |
-&lt;a href="mailto:rajeshkayal8001@gmail.com"&gt;Email&lt;/a&gt; |
-&lt;a href="https://github.com/rajesh-kayal-dev"&gt;GitHub&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+<a href="https://linkedin.com/in/rajesh110">LinkedIn</a> |
+<a href="mailto:rajeshkayal8001@gmail.com">Email</a> |
+<a href="https://github.com/rajesh-kayal-dev">GitHub</a>
+</p>
 
 ---
 
@@ -58,9 +58,9 @@ I actively practice Data Structures and Algorithms using Java to strengthen my p
 
 ## GitHub Statistics
 
-&lt;p align="center"&gt;
-&lt;img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /&gt;
-&lt;/p&gt;
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
