@@ -29,7 +29,6 @@ I like writing clean code and figuring out how to make things work better and fa
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **Artificial Intelligence:** LangChain, RAG Systems, Vector Databases (Pinecone), LLM Integration , Embedding
 
-**Cloud:** AWS (EC2, S3), Docker, CI/CD Pipelines
 **Languages:** JavaScript, TypeScript, PHP, Java
 
 ---
