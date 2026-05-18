@@ -1,4 +1,4 @@
-# **Hi, I'm Rajesh Kayal** *& I build scalable web and AI applications*
+# **Hi, I'm Rajesh** *& I build scalable web and AI applications*
 
 ## :secret: About Me :
 > I'm a Full Stack Developer and MCA Student at Dev Bhoomi Uttarakhand University<br>
