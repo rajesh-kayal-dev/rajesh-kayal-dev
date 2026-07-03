@@ -1,12 +1,16 @@
 # **Hi, I'm Rajesh** *& I build scalable web and AI applications*
 
-## :secret: About Me :
-> I'm a Full Stack Developer and MCA Student at Dev Bhoomi Uttarakhand University<br>
-> I specialize in backend development, REST APIs, and scalable web applications<br>
-> Currently exploring AI application development with RAG systems, LangChain, and LLM integrations<br>
-> Passionate about building practical products using modern web and AI technologies<br>
-> You can reach me at rajeshkayal8001@gmail.com
-> <br/>
+## :secret: About Me
+
+> I'm a Full Stack Developer and MCA graduate with 1+ years of hands-on experience building scalable web applications.
+>
+> I specialize in JavaScript, TypeScript, Node.js, React, REST APIs, microservices, and backend development.
+>
+> Currently building AI applications using RAG, LangChain, LLM APIs, and modern AI engineering practices.
+>
+> I enjoy building developer tools, AI-powered products, and scalable backend systems that solve real-world problems.
+>
+> Reach me at **rajeshkayal8001@gmail.com**
 
 [![](https://komarev.com/ghpvc/?username=rajesh-kayal-dev&base=0&color=202020)](https://github.com/rajesh-kayal-dev)
 
