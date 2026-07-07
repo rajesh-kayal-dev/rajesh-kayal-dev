@@ -58,20 +58,11 @@
 ![Linux](https://img.shields.io/badge/Linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
 <hr/>
 
-## :coffee: GitHub Stats:
+## ☕ GitHub Stats:
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&theme=transparent&hide_border=false&border_radius=15&title_color=2160C4&icon_color=2A79F7&text_color=a0a0a0&border_color=666&cache_seconds=86400" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rajesh-kayal-dev&theme=transparent&hide_border=false&border_radius=15&ring=2A79F7&fire=2A79F7&currStreakLabel=2A79F7&sideLabels=a0a0a0&dates=808080&border=666&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-kayal-dev&layout=compact&theme=transparent&hide_border=false&border_radius=15&title_color=2160C4&text_color=a0a0a0&border_color=666&cache_seconds=86400" />
-</p>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&theme=transparent&hide_border=false&border_radius=15&title_color=2160C4&icon_color=2A79F7&text_color=a0a0a0&border_color=666)
 
 <hr/>
-
 ## :rocket: Currently Exploring:
 
 - Building AI applications with RAG and LLM workflows
