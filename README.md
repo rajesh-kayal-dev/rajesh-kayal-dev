@@ -129,8 +129,8 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0B&title_color=3B82F6&icon_color=3B82F6&text_color=9A9AA2&ring_color=3B82F6&cache_seconds=1800" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-kayal-dev&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=3B82F6&text_color=9A9AA2&langs_count=8&cache_seconds=1800" width="30%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-kayal-dev&theme=github_dark" width="49%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-kayal-dev&theme=github_dark" width="30%" alt="Top Languages" />
 
 <br />
 
