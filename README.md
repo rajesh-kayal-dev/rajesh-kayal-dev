@@ -107,7 +107,7 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 **AI & Vector Search**
 
 <img src="https://cdn.simpleicons.org/langchain/00A67E" height="48" alt="LangChain" />
-`MCP`
+<img src="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" height="48" alt="Model Context Protocol" />
 <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant" />
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="PGVector" />
 
