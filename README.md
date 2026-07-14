@@ -142,7 +142,7 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/rajesh-kayal-dev/rajesh-kayal-dev/output/snake-dark.svg" width="82%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/rajesh-kayal-dev/rajesh-kayal-dev/output/snake.svg" width="82%" alt="Contribution Snake" />
 
 </div>
 
