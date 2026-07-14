@@ -104,7 +104,7 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 
 **AI & Vector Search**
 
-<img src="https://skillicons.dev/icons?i=py,vscode&theme=dark" alt="AI tooling" /> &nbsp; `LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `Model Context Protocol` &nbsp;·&nbsp; `Qdrant` &nbsp;·&nbsp; `PGVector`
+`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `Model Context Protocol` &nbsp;·&nbsp; `Qdrant` &nbsp;·&nbsp; `PGVector`
 
 **Tools**
 
@@ -125,12 +125,12 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0B&title_color=3B82F6&icon_color=3B82F6&text_color=9A9AA2&ring_color=3B82F6" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-kayal-dev&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=3B82F6&text_color=9A9AA2&langs_count=8" width="30%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajesh-kayal-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0B&title_color=3B82F6&icon_color=3B82F6&text_color=9A9AA2&ring_color=3B82F6&cache_seconds=1800" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-kayal-dev&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=3B82F6&text_color=9A9AA2&langs_count=8&cache_seconds=1800" width="30%" alt="Top Languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-kayal-dev&hide_border=true&background=0A0A0B&stroke=1E1E22&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9A9AA2&currStreakNum=EDEDEF&sideNums=EDEDEF&dates=57575F" width="82%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=rajesh-kayal-dev&hide_border=true&background=0A0A0B&stroke=1E1E22&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9A9AA2&currStreakNum=EDEDEF&sideNums=EDEDEF&dates=57575F" width="82%" alt="GitHub Streak" />
 
 <br />
 
