@@ -106,11 +106,11 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 
 **AI & Vector Search**
 
-<img src="https://img.shields.io/badge/LangChain-0A0A0B?style=for-the-badge&logo=langchain&logoColor=3B82F6" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-0A0A0B?style=for-the-badge&logo=langchain&logoColor=3B82F6" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Model_Context_Protocol-0A0A0B?style=for-the-badge&logo=anthropic&logoColor=3B82F6" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/Qdrant-0A0A0B?style=for-the-badge&logo=qdrant&logoColor=3B82F6" alt="Qdrant" />
-<img src="https://img.shields.io/badge/PGVector-0A0A0B?style=for-the-badge&logo=postgresql&logoColor=3B82F6" alt="PGVector" />
+<img src="https://cdn.simpleicons.org/langchain/3B82F6" height="48" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/langchain/3B82F6" height="48" alt="LangGraph" />
+<img src="https://cdn.simpleicons.org/anthropic/3B82F6" height="48" alt="Model Context Protocol" />
+<img src="https://cdn.simpleicons.org/qdrant/3B82F6" height="48" alt="Qdrant" />
+<img src="https://cdn.simpleicons.org/postgresql/3B82F6" height="48" alt="PGVector" />
 
 **Tools**
 
