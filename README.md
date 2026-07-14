@@ -89,6 +89,7 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql&theme=dark" alt="Backend" />
+<img src="https://img.shields.io/badge/JWT-0A0A0B?style=for-the-badge&logo=jsonwebtokens&logoColor=3B82F6" alt="JWT" />
 
 **Frontend**
 
