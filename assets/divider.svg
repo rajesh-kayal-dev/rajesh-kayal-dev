@@ -1,0 +1,11 @@
+<svg width="1200" height="40" viewBox="0 0 1200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dividerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0A0B" stop-opacity="0" />
+      <stop offset="50%" stop-color="#2A2A30" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0A0A0B" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="20" x2="1200" y2="20" stroke="url(#dividerGrad)" stroke-width="1" />
+  <rect x="596" y="17" width="8" height="6" fill="#3B82F6" opacity="0.9" />
+</svg>
