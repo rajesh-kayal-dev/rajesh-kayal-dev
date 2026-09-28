@@ -29,7 +29,7 @@ Backend engineer focused on designing and shipping production systems — REST a
 Code is read far more than it is written. I favor explicit types, small functions, and interfaces that fail loudly in development rather than silently in production.
 
 **Design for the failure case**
-Timeouts, retries, idempotency, and backpressure are not edge cases — they are the actual system. I design the failure path first, then the happy path.
+Timeouts, retries, idempotency, and backpressure are not edge cases — they are the actual system. I design the failure path first, then the happy.
 
 </td>
 <td width="50%" valign="top">
