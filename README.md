@@ -69,19 +69,8 @@ I enjoy turning complex problems into simple, clean systems that can grow with t
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-kayal-dev&theme=github_dark" width="49%" alt="GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-kayal-dev&theme=github_dark" width="30%" alt="Top Languages" />
 
-<br />
 
 <img src="https://streak-stats.demolab.com/?user=rajesh-kayal-dev&hide_border=true&background=0A0A0B&stroke=1E1E22&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9A9AA2&currStreakNum=EDEDEF&sideNums=EDEDEF&dates=57575F" width="82%" alt="GitHub Streak" />
 
-<br />
-
-
-
-<br /><br />
-
-
-</div>
-
-<br />
 
 <img src="./assets/footer.svg" width="100%" alt="" />
