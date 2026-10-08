@@ -15,109 +15,50 @@
 
 ### Introduction
 
-Backend engineer focused on designing and shipping production systems — REST and event-driven APIs, service-to-service auth, and the data layer underneath them. Comfortable owning a feature from schema to deployment. Recent work sits at the intersection of backend infrastructure and applied AI: retrieval pipelines, agent tooling, and context-aware services built on LangChain, LangGraph, and MCP. I optimize for systems that are boring to operate — predictable, observable, and easy to roll back.
+Most users only see a button. I love building what happens after they click it.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+That curiosity turned me into a **Full Stack Developer** with 1+ year of experience. I build fast, secure and scalable products that go live and are built to handle real users.
 
-### Engineering Philosophy
+My main stack is **React, Node.js, TypeScript, PostgreSQL, Kafka, Docker and AWS**, with a focus on **Cloud & DevOps** and hands-on experience in **microservices architecture**.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Correctness before cleverness**
-Code is read far more than it is written. I favor explicit types, small functions, and interfaces that fail loudly in development rather than silently in production.
-
-**Design for the failure case**
-Timeouts, retries, idempotency, and backpressure are not edge cases — they are the actual system. I design the failure path first, then the happy.
-
-</td>
-<td width="50%" valign="top">
-
-**Scale is a budget, not a feature**
-Premature horizontal scaling costs more than it saves. I profile before I shard, and I reach for caching, indexing, and query design before infrastructure.
-
-**Developer experience compounds**
-Fast local setup, typed contracts, and CI that catches regressions early are what let a team move quickly six months in, not just in week one.
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-### Core Expertise
-
-<table>
-<tr>
-<td width="80" align="center"><img src="./assets/backend.svg" width="64" height="64" alt="" /></td>
-<td valign="middle">
-
-**Backend Engineering**
-REST and RPC API design, authentication and authorization (JWT, OAuth2), service architecture, request validation, rate limiting, and background job processing with Node.js, Fastify, and Express.
-
-</td>
-</tr>
-<tr>
-<td width="80" align="center"><img src="./assets/ai.svg" width="64" height="64" alt="" /></td>
-<td valign="middle">
-
-**AI Engineering**
-RAG pipelines, agentic workflows with LangChain and LangGraph, Model Context Protocol integrations, embedding generation, and retrieval over Qdrant and PGVector.
-
-</td>
-</tr>
-<tr>
-<td width="80" align="center"><img src="./assets/cloud.svg" width="64" height="64" alt="" /></td>
-<td valign="middle">
-
-**Cloud & Systems Design**
-Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted services, database schema design across PostgreSQL and MongoDB, Redis for caching and queues, and microservice decomposition.
-
-</td>
-</tr>
-</table>
+I enjoy turning complex problems into simple, clean systems that can grow with the product. Always open to connect and build impactful products.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ### Technology Stack
 
-**Languages**
+**Languages** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0A0B)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0A0A0B)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=0A0A0B)
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" alt="Languages" />
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0A0A0B)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=0A0A0B)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=0A0A0B)
 
-**Backend**
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0A0A0B)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=0A0A0B)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=FFFFFF&labelColor=0A0A0B)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=0A0A0B)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend" /> <img src="https://cdn.simpleicons.org/fastify/ffffff" height="48" alt="Fastify" /> <img src="https://cdn.simpleicons.org/jsonwebtokens/3B82F6" height="48" alt="JWT" />
+**Databases** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0A0A0B)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=0A0A0B)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0A0A0B)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D&labelColor=0A0A0B)
 
-**Frontend**
+**Cloud & DevOps** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=0A0A0B)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0A0A0B)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0A0A0B)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032&labelColor=0A0A0B)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="Databases" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,git&theme=dark" alt="Cloud & DevOps" />
-
-**AI & Vector Search**
-
-<img src="https://cdn.simpleicons.org/langchain/00A67E" height="48" alt="LangChain" /> <img src="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" height="48" alt="Model Context Protocol" /> <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="PGVector" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=postman,vscode,githubactions&theme=dark" alt="Tools" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-### Current Focus
-
-- Building production-grade MCP servers to expose internal tools and data sources to LLM agents
-- Deepening system design fundamentals — consistency models, partitioning strategies, and queue-based architectures
-- Extending a Fastify service template with built-in observability, structured logging, and typed request contracts
-- Working through advanced graph and dynamic programming problems on LeetCode
+**AI** &nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00A67E&labelColor=0A0A0B)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=FFFFFF&labelColor=0A0A0B)
+![pgvector](https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0A0A0B)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -134,74 +75,13 @@ Containerized deployments with Docker, CI/CD via GitHub Actions, AWS-hosted serv
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-kayal-dev&theme=react-dark&bg_color=0A0A0B&color=9A9AA2&line=3B82F6&point=EDEDEF&area=true&area_color=3B82F6&hide_border=true" width="82%" alt="Contribution Activity" />
+
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/rajesh-kayal-dev/rajesh-kayal-dev/output/snake.svg" width="82%" alt="Contribution Snake" />
 
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-### LeetCode
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="180"><h3>150+</h3><sub>Problems Solved</sub></td>
-<td align="center" width="180"><h3>Java</h3><sub>Primary Language</sub></td>
-<td align="center" width="180"><h3>DSA</h3><sub>Focus Area</sub></td>
-</tr>
-</table>
-
-<img src="https://leetcard.jacoblin.cool/rajesh_8001?theme=dark&font=Inter&ext=heatmap&bg_color=0A0A0B&text_color=EDEDEF&border_color=1E1E22" width="60%" alt="LeetCode Stats" />
-
-</div>
-
-Consistent practice in data structures, algorithms, and graph problems — with an emphasis on reasoning through time and space complexity before writing code.
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-### Connect
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-
-**Portfolio**
-[rajesh-kayal-portfolio.vercel.app](https://rajesh-kayal-portfolio.vercel.app/)
-
-</td>
-<td width="25%" align="center">
-
-**LinkedIn**
-[in/rajesh110](https://www.linkedin.com/in/rajesh110/)
-
-</td>
-<td width="25%" align="center">
-
-**X**
-[@RajeshKayal_](https://x.com/RajeshKayal_)
-
-</td>
-<td width="25%" align="center">
-
-**GitHub**
-[@rajesh-kayal-dev](https://github.com/rajesh-kayal-dev/)
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rajesh-kayal-dev&style=flat-square&color=0A0A0B&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
 
 <img src="./assets/footer.svg" width="100%" alt="" />
-
