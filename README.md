@@ -30,6 +30,7 @@ I enjoy turning complex problems into simple, clean systems that can grow with t
 **Languages** &nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0A0B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0A0A0B)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB&labelColor=0A0A0B)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=0A0A0B)
 
 **Frontend** &nbsp;
@@ -40,6 +41,7 @@ I enjoy turning complex problems into simple, clean systems that can grow with t
 **Backend** &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0A0A0B)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=0A0A0B)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0A0A0B)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=FFFFFF&labelColor=0A0A0B)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=0A0A0B)
 
@@ -57,6 +59,8 @@ I enjoy turning complex problems into simple, clean systems that can grow with t
 
 **AI** &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00A67E&labelColor=0A0A0B)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=0A0A0B)
+![Model Graph](https://img.shields.io/badge/Model%20Graph-000000?style=flat-square&logo=diagrams.net&logoColor=F08705&labelColor=0A0A0B)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=FFFFFF&labelColor=0A0A0B)
 ![pgvector](https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0A0A0B)
 
