@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Rajesh Kayal — Backend Engineer" />
 
-<br />
+<br //>
 
 <a href="https://rajesh-kayal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=3B82F6&labelColor=0A0A0B" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/rajesh110/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=3B82F6&labelColor=0A0A0B" alt="LinkedIn" /></a>
