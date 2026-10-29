@@ -13,7 +13,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### Introduction.
+### Introduction
 
 Most users only see a button. I love building what happens after they click it.
 
