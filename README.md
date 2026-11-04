@@ -39,6 +39,9 @@ flowchart LR
     linkStyle 4 stroke:#22d3ee,stroke-width:1.5px,stroke-dasharray:5 4
 ```
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+
 <table width="100%">
   <thead>
     <tr><th align="left" width="100%">Featured Projects &nbsp;</th></tr>
@@ -136,6 +139,10 @@ flowchart LR
     </td></tr>
   </tbody>
 </table>
+
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ### Engineering Toolkit
 <div align="center">
 
