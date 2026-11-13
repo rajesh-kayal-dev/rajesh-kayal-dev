@@ -8,7 +8,7 @@
 
 ### How I Build Products
 
-<sub>Turning real-world problems into reliable, scalable and maintainable software.</sub>
+<sub>Turning real-world problems into reliable, scalable and maintainable software</sub>
 
 ```mermaid
 %%{init: {
